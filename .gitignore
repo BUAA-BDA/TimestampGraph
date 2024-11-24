@@ -1,0 +1,17 @@
+# 过滤产物
+build/
+log/
+
+# 过滤编辑器设定
+.vscode/
+
+# 过滤数据集
+data/
+
+temp/
+
+*.log
+
+__pycache__/
+
+*.out
